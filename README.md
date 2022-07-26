@@ -2,6 +2,7 @@
 
 - 🌱 Tecnico em Desenvolvimento De Sistemas
 - 😄 Pronouns: Ela/Dela
+- 🖱 Auxiliar em Desenvolvimento De Sistemas
 
 <div align="center">
   <a href="https://github.com/talitatodesco">
