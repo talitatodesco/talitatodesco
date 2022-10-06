@@ -4,11 +4,7 @@
 - 😄 Pronouns: Ela/Dela
 - 🖱 Auxiliar em Desenvolvimento De Sistemas
 
-<div align="center">
-  <a href="https://github.com/talitatodesco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talitatodesco&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitatodesco&layout=compact&langs_count=7&theme=shades-of-purple"/>
-</div>
+
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Tali-Csharp" height="30" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
