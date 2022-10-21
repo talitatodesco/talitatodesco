@@ -15,7 +15,11 @@
   <img align="center" alt="Tali-Linux" height="30" width="70" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img align="center" alt="Tali-Cplusplus" height="30" width="70" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Tali-Csharp" height="30" width="150" src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white">
-  
-  
 </div>
+  <br><br>
+ 
+ <img src= "https://user-images.githubusercontent.com/70537487/197129031-1ad5f8ce-31d1-4118-88d6-205e096289db.gif">
+ 
+ 
+
 
