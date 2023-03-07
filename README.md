@@ -4,13 +4,12 @@
 - 😄 Pronouns: Ela/Dela
 - 🖱 Auxiliar em Desenvolvimento De Sistemas
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talitatodesco&show_icons=true&theme=shades-of-purple)
-
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talitatodesco&layout=compact&theme=shades-of-purple)](https://github.comtalitatodesco/github-readme-stats)
- -->
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talitatodesco&show_icons=true&theme=dracula)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talitatodesco&layout=compact&theme=dracula)](https://github.comtalitatodesco/github-readme-stats)
+ 
+ 
   <div style="display: inline_block"><br>
   <img align="center" alt="Tali-Csharp" height="30" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Tali-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
