@@ -1,8 +1,8 @@
 ### Hello my name is Talita👋
 
--🌱 Tecnico em Desenvolvimento De Sistemas
--😄 Pronouns: Ela/Dela
--🖱 Auxiliar em Desenvolvimento De Sistemas
+- 🌱 Tecnico em Desenvolvimento De Sistemas
+- 😄 Pronouns: Ela/Dela
+- 🖱 Auxiliar em Desenvolvimento De Sistemas
 
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talitatodesco&show_icons=true&theme=dracula)
