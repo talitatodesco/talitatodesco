@@ -5,9 +5,9 @@
 - 🖱 Auxiliar em Desenvolvimento De Sistemas
 
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talitatodesco&show_icons=true&theme=tokyonight)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talitatodesco&show_icons=true&theme=radical)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talitatodesco&layout=compact&theme=dracula)](https://github.comtalitatodesco/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talitatodesco&layout=compact&theme=radical)](https://github.comtalitatodesco/github-readme-stats)
  
  
   <div style="display: inline_block"><br>
